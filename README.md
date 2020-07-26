@@ -1,19 +1,17 @@
-# rfiles
-Files posted here will have a concentration in data analytics and machine learning. 
+# Harvard Data Science Certification
 
-## Courses taken so far:
-These courses used RStudio to create projects in RMarkdown
+https://www.edx.org/professional-certificate/harvardx-data-science 
 
-### Harvard 
-See the folder harvard_ds_certif
+## Courses In Progress:
 
-- Data Science: Probability 
-- Data Science: Capstone 
+1. R Basics
 
-### JMU
-- Introduction to Machine Learning 
-- Probability and Statistics 
+See folder *r_basics_1*
 
-### DataCamp
-- Communicating with the tidyverse. See the folder iso_workerscomp_viz
+3. Probability
 
+See folder *probability_3*
+
+9. Capstone
+
+See folder *capstone_9*
