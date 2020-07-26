@@ -1,4 +1,4 @@
-# Harvard Data Science Certification
+# Harvard Data Science Professional Certification
 
 Currently auditing courses in the Data Science Track. 
 
