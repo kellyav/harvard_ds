@@ -38,7 +38,6 @@ see *monte_carlo.Rmd* and *carddeck_stats.Rmd*
 ## Textbook for Course
 
 - Introduction to Data Science: Data Analysis and Prediction Algorithms with R by Rafael A. Irizarry
-
-2020-07-16
+ 2020-07-16
 
 https://rafalab.github.io/dsbook/
