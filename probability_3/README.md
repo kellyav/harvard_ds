@@ -22,18 +22,18 @@ To begin to understand this very complicated event, we need to understand the ba
 
 - Independence
 
+see * discrete_prob.Rmd *
+
 - Monte Carlo simulations
 
-- Sxpected values
+see * monte_carlo.Rmd * and * carddeck_stats.Rmd *
+
+- Expected values
 
 - Standard errors
 
 - Central Limit Theorem. 
 
-
-## R scripts
-
-- 
 
 ## Textbook for Course
 
