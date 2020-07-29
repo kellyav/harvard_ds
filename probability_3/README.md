@@ -22,11 +22,11 @@ To begin to understand this very complicated event, we need to understand the ba
 
 - Independence
 
-see * discrete_prob.Rmd *
+see *discrete_prob.Rmd*
 
 - Monte Carlo simulations
 
-see * monte_carlo.Rmd * and * carddeck_stats.Rmd *
+see *monte_carlo.Rmd* and *carddeck_stats.Rmd*
 
 - Expected values
 
