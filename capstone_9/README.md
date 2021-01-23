@@ -3,9 +3,12 @@ Data Science: Capstone is the final course for the Professional Certificate Prog
 taught by the famous Prof. of Biostatistics Rafael Irizarry from Harvard University through edX platform.
 
 
+
 ## MovieLens Recommender System
 
 Build a recommender system based on MovieLens database that predict movie ratings.
+
+
 
 ## Second Project choosen in complete autonomy
 
