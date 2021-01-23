@@ -6,14 +6,11 @@ https://www.edx.org/professional-certificate/harvardx-data-science
 
 ## Courses In Progress:
 
-1. **R Basics**
 
-See folder *r_basics_1*
-
-3. **Probability**
+1. **Probability**
 
 See folder *probability_3*
 
-9. **Capstone**
+2. **Capstone**
 
 See folder *capstone_9*
